@@ -11,4 +11,4 @@
    uvicorn main:app --reload
 4. Open another terminal and start the Graphic User Interface:
    ```bash
-   streamlit run app_grafic.py
+   streamlit run GUI.py
