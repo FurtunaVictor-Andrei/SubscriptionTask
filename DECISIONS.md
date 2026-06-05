@@ -9,6 +9,11 @@ that there already is an unique id for every user.
 2. I also find unclear whether the cancel button should refund the money paid or just 
 strip the Premium title, I chose just to take away the Premium title
 
+**Trade-offs**
+
+I had to chose between only testing with Postman or having a GUI for testing. I chose to also make a GUI because
+this way I could represent what was in my mind when I started this task as testing with Postman seemed to simple.
+
 **Storage Choice**
 
 For storage I chose RAM memory because I did not want to fill sql tables with testing
